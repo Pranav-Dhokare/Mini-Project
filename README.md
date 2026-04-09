@@ -1,2 +1,2 @@
 # Mini-Project
-Add a commnet
+Add a comment
